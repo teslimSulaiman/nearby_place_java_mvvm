@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Nearby Place</string>
+    <string name="place_image">place image</string>
+    <string name="title_location_permission">Permission Request</string>
+    <string name="text_location_permission">This App requires your permission to access the location service</string>
+    <string name="ok">OK</string>
+    <string name="place_detail">Place Detail</string>
+    <string name="empty_response">Empty response</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="allow_permission">Allow permission to use App</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="error_in_response">Error in response</string>
+    <string name="permission_not_granted">Permission not granted</string>
+    <string name="permission_not_granted_you_cant_use_app">permission not granted, you cant use the app</string>
+    <string name="view_on_map">VIEW ON MAP</string>
+    <string name="location_loaded">Locations loaded!</string>
+</resources>
